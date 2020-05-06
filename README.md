@@ -33,10 +33,8 @@
 
 ## 赞助
 
-**注意**：要赞助`解除B站区域限制的服务器`，请直接点击脚本设置页面的“捐赠”链接（在服务器地址旁边）。如下赞助只针对脚本本身，不针对服务器。
 
-[赞助列表](donate/donation.jsonc)
 
 支付宝赞助二维码：
 
-![支付宝赞助二维码](donate/donate_by_alipay.png)
+![支付宝赞助二维码](https://nikoyu.asia/img/alipay.jpg) 
